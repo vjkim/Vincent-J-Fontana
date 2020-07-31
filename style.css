@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+
+body, html{
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+h1{
+	font-weight: 800;
+	font-size: 50px;
+	margin: 5px;
+}
+
+h2{
+	font-weight: 800;
+	font-size: 50px;
+	margin: 1px;
+}
+
+h3{
+ 	font-weight: 600;
+ 	font-size: 25px;
+ 	margin: 1px 1px 1px 1px;
+ }
+
+h4{
+	font-weight: 400;
+	font-style: 10px;
+	margin: 1px;
+}
+
+p{
+	font-weight: 400;
+	font-size: 15px;
+	margin: 1px;
+}
+
+
+li{
+	font-weight: 400;
+	font-size: 15px;
+	margin: 0px;
+}
+
+.header{
+	background-color: #007FFF;
+ 	box-sizing:border-box;
+ 	position: relative;
+ 	overflow: hidden;
+ 	padding: 1px;
+}
+
+header h1{
+
+}
+
+.questions{
+	
+}
+
+.questions ul{
+	margin: 5px;
+}
+
+.questions ul li{
+	margin: 5px;
+}
+
+.wrapper{
+	margin: 0px;
+}
+
+.child-abuse{
+	margin: 5px;
+	
+}
+
+.physical-abuse{
+	margin: 5px;
+}
+
+.physical-abuse p{
+	margin: 5px;
+}
+
+.sexual-abuse{
+	margin: 5px;
+
+}
+
+.sexual-abuse p{
+	margin: 5px;
+}
+
+.sexual-abuse h3{
+	font-weight: 600;
+	font-size: 25px;
+}
+
+.neglect 
